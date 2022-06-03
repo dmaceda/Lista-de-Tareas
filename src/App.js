@@ -1,5 +1,4 @@
 import './App.css';
-import Logo from './dmaceda_blanco.png';
 import ListaDeTareas from './componentes/ListaDeTareas';
 
 function App() {
